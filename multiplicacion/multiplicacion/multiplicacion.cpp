@@ -14,6 +14,8 @@ multiplicación acumulada de sus elementos*/
         multiplicacion += numeros[i];
 
     // Poner un print 
+        printf("imprimir valor: %i", multiplicacion);
+        //nuestro valor nos tendria que salir 120
         
     }
 }
