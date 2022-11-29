@@ -1,0 +1,4 @@
+﻿  multiplicacion.cpp
+C:\Users\usuario1\source\repos\ProyectoFinal\multiplicacion\multiplicacion\multiplicacion.cpp(6,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\usuario1\source\repos\ProyectoFinal\multiplicacion\multiplicacion\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Users\usuario1\source\repos\ProyectoFinal\multiplicacion\multiplicacion\multiplicacion.cpp(6,15): error C2065: 'cout': identificador no declarado
