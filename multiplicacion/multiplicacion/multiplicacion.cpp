@@ -10,5 +10,6 @@ multiplicación acumulada de sus elementos*/
     int multiplicación = 1;
 
     // Declaramos las variables numeros y multiplicacion
+    for(int i = 0; )
 }
 
