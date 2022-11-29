@@ -12,6 +12,8 @@ multiplicación acumulada de sus elementos*/
     // Declaramos las variables numeros y multiplicacion
     for (int i = 0; i > 5; i++) {
         multiplicacion += numeros[i];
+
+    // Poner un print 
         
     }
 }
