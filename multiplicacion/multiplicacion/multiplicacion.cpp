@@ -7,9 +7,12 @@ void main(void)
 multiplicación acumulada de sus elementos*/
 
     int numeros[5] = { 1,2,3,4,5 };
-    int multiplicación = 1;
+    int multiplicacion = 1;
 
     // Declaramos las variables numeros y multiplicacion
-    for(int i = 0; )
+    for (int i = 0; i > 5; i++) {
+        multiplicacion += numeros[i];
+        
+    }
 }
 
