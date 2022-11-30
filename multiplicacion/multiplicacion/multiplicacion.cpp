@@ -24,6 +24,12 @@ multiplicación acumulada de sus elementos*/
             suma += numeros[i]; //Utilizamos una suma iterativa
         }
         
+        int numeros[5] = { 1,2,3,4,5 };
+        int resta = 0;
+
+        for (int i = 0; i < 5; i--) {
+            resta += numeros[i]; //Utilizamos una suma iterativa
+        }
     }
 }
 
