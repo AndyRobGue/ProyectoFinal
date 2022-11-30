@@ -28,7 +28,7 @@ multiplicación acumulada de sus elementos*/
         int resta = 0;
 
         for (int i = 0; i < 5; i--) {
-            resta += numeros[i]; //Utilizamos una suma iterativa
+            resta -= numeros[i]; //Utilizamos una resta iterativa
         }
     }
 }
